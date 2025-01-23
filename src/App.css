@@ -1,0 +1,35 @@
+.main{
+  position: relative;
+  left: 650px;
+  top: 150px;
+}
+body{
+  background-image: url(/images/images.jpg);
+  background-size: cover;
+}
+#btn{
+  position: relative;
+  left: 70px;
+}
+
+h1{
+  color: rgb(30, 129, 228);
+  position: relative;
+  left: 40px;
+}
+
+#outlined-basic{
+  border: 1px solid white;
+}
+
+.box{
+  position: relative;
+  left: 600px;
+  top: 150px;
+}
+
+.reg{
+  position: relative;
+  left: 500px;
+  top: 150px;
+}
